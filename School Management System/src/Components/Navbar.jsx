@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
       <nav>
         <div className='logo'>
-          facebook
+          Linkify
         </div>
         <ul>
             <Link to="/home"><li>Home</li></Link>

@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
       <nav>
         <div className='logo'>
-          Linkify
+          TaskFlow
         </div>
         <ul>
             <Link to="/home"><li>Home</li></Link>
